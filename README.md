@@ -6,7 +6,7 @@
 
 ## 👋 Hi There
 
--  I am Developer in Samsung SDS.
+-  I am a Developer in Samsung SDS.
 
 ## 🙋🏻‍♂️️ Contact me
 
