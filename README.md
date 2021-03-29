@@ -30,7 +30,7 @@
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=wihte)
 
-## Github Stats  
+## 📊Github Stats  
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=nubiforms&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
