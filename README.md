@@ -1,6 +1,6 @@
 <div align=right>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnubiforms)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/nubiforms?label=Follow)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnubiforms)](https://hits.seeyoufarm.com) ![Follow](https://img.shields.io/github/followers/nubiforms?label=Follow)
 
 </div>
 
