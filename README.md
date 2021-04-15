@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnubiforms)](https://hits.seeyoufarm.com) ![Follow](https://img.shields.io/github/followers/nubiforms?label=Follow)
 
-![Survive](https://img.shields.io/github/languages/count/nubiforms/survive)
-
 </div>
 
 ## 👋 Hi There
@@ -31,6 +29,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=wihte)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
